@@ -1,0 +1,11 @@
+name: ele
+version: 1.0.0
+author:
+  name: Perfree
+  email: perfree@126.com
+  webSite: http://yinpengfei.com
+description: 一款基于vue、element plus开发的博客主题
+updateUrl: http://yinpengfei.com
+screenshots: screenshots.jpg
+type: vue
+settingType: json
